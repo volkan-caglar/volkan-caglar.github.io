@@ -1,0 +1,53 @@
+body {
+    background-color: #EAF6F6; 
+}
+
+
+
+.circular :hover {
+    border-radius: 30%;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 4px;
+    width: 10%;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
+}
+
+
+/* *******************TAG SELECTORS*********************** */
+
+h1{
+    color: ;
+    font-size: ;
+}
+
+/* *******************CLASS SELECTORS*********************** */
+
+.bacon {
+    background-color: ;
+}
+
+/* *******************ID SELECTORS*********************** */
+
+#heading {
+    color: ;
+}
+
+/* 
+- IDs have to be unique but various items in the code can have the same Class. 
+- With Class, you can group items with a similar style.
+- You can't have more then one ID for a particular element but you can have more than one class for an element
+- For Styling, IDs should be used more sparingly  
+
+*/
